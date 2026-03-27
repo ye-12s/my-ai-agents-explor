@@ -1,0 +1,25 @@
+{
+  "name": "ai-agent-skills-collection",
+  "version": "1.0.0",
+  "description": "Personal collection of AI agent skills for embedded development and workflow optimization",
+  "created": "2024-03-28T00:27:00Z",
+  "skills": {
+    "embedded": [
+      "embedded-serial-debugging",
+      "jlink-debugging",
+      "embedded-logging",
+      "embedded-gdb-debugging"
+    ],
+    "superpowers": [
+      "task-archiving",
+      "task-completion-hooks",
+      "parallel-task-decomposition",
+      "discussion-context-hook"
+    ]
+  },
+  "install": {
+    "scripts": ["install.sh", "install.ps1", "install.py"],
+    "default_path": "~/.agents/skills"
+  },
+  "repository": "https://github.com/YOUR_USERNAME/ai-agent-skills"
+}
