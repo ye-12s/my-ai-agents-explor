@@ -2,7 +2,7 @@
   "name": "ai-agent-skills-collection",
   "version": "1.0.0",
   "description": "Personal collection of AI agent skills for embedded development and workflow optimization",
-  "created": "2024-03-28T00:27:00Z",
+  "created": "2026-03-28T00:27:00Z",
   "skills": {
     "embedded": [
       "embedded-serial-debugging",

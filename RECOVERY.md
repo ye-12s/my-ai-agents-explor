@@ -326,4 +326,4 @@ Copy-Item -Path $env:USERPROFILE\.agents\skills -Destination "$env:USERPROFILE\.
 
 ---
 
-**最后更新**: 2024-03-28
+**最后更新**: 2026-03-28
